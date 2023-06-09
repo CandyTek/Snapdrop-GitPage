@@ -1,7 +1,9 @@
 # Snapdrop-GitPage
-本项目用于收集 Snapdrop 工具部署网址
 
----
+[![English badge](https://img.shields.io/badge/%E8%8B%B1%E6%96%87-English-blue)](./README_en.md)
+[![简体中文 badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Simplified%20Chinese-blue)](./README.md)
+
+本项目收集 Snapdrop 工具部署网址。
 
 <br>
 
@@ -51,12 +53,14 @@
 ###### https://<span></span>github.com/linzxcw/qilindrop
 
 <br>
+<br>
 
----
 
-### 免责声明：我尚未验证上述实例，例如代码检查。使用风险自负。
+> #### 免责声明：我尚未验证上述实例，例如代码检查。使用风险自负。
 
----
+
+<br>
+<br>
 
 ## [Snapdrop (api.lpv4.cn:10010)](http://api.lpv4.cn:10010)
 
@@ -74,8 +78,9 @@
 
 ###### https://<span></span>github.com/RobinLinus/snapdrop/issues/483
 
----
+<br>
+<br>
 
-### 免责声明：上述实例来自用户发言，暂未找到源码。使用风险自负。
 
----
+> #### 免责声明：上述实例来自用户发言，暂未找到源码。使用风险自负。
+
