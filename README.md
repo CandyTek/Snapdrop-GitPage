@@ -68,15 +68,15 @@
 
 ## [Filedrop (filedrop.codext.de)](https://filedrop.codext.de)
 
-###### https://<area>github.com/RobinLinus<area>/snapdrop/issues/504
+###### https://<span></span>github.com/RobinLinus<span></span>/snapdrop/issues/504
 
 ## [Snapdrop (mohammadag.com:8081)](http://mohammadag.com:8081)
 
-###### https://<area>github.com/RobinLinus<area>/snapdrop/issues/295
+###### https://<span></span>github.com/RobinLinus<span></span>/snapdrop/issues/295
 
 ## [Airdope (airdope.io)](https://airdope.io)
 
-###### https://<area>github.com/RobinLinus<area>/snapdrop/issues/483
+###### https://<span></span>github.com/RobinLinus<span></span>/snapdrop/issues/483
 
 <br>
 <br>
