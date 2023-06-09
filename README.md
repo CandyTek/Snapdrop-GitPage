@@ -9,48 +9,48 @@
 
 ## [Snapdrop (www.snapdrop.net)](https://www.snapdrop.net/)
 
-###### https://<span></span>github.com/RobinLinus/snapdrop
+###### https://<area>github.com/RobinLinus/snapdrop
 
 ## [Pairdrop (pairdrop.net)](https://pairdrop.net)
 
-###### https://<span></span>github.com/fm-sys/snapdrop-android
+###### https://<area>github.com/fm-sys/snapdrop-android
 
 ## [Snapdrop (s.hoothin.com)](https://s.hoothin.com/)
 
-###### https://<span></span>github.com/hoothin/snapdrop
+###### https://<area>github.com/hoothin/snapdrop
 
 ## [武林门 (www.wulingate.com)](https://www.wulingate.com/)
 
-###### https://<span></span>github.com/yjmp14/wulingate
+###### https://<area>github.com/yjmp14/wulingate
 
 ## [Snapdrop (fm-sys.github.io/snapdrop/client)](https://fm-sys.github.io/snapdrop/client/)
 
-###### https://<span></span>github.com/fm-sys/snapdrop
+###### https://<area>github.com/fm-sys/snapdrop
 
 ## [Snapdrop (snapdrop.fairysoft.net)](https://snapdrop.fairysoft.net)
 
-###### https://<span></span>github.com/laukeng/snapdrop
+###### https://<area>github.com/laukeng/snapdrop
 
 
 ## [Snapdrop (node-snapdrop.onrender.com)](https://node-snapdrop.onrender.com)
 
-###### https://<span></span>github.com/Bellisario/node-snapdrop
+###### https://<area>github.com/Bellisario/node-snapdrop
 
 ## [Lafdrop (uui1ik-static.site.laf.dev)](https://uui1ik-static.site.laf.dev)
 
-###### https://<span></span>github.com/moonrailgun/lafdrop
+###### https://<area>github.com/moonrailgun/lafdrop
 
 ## [悟元快传 (drop.wuyuan.dev)](https://drop.wuyuan.dev/)
 
-###### https://<span></span>github.com/SunWuYuan/wuyuan-drop
+###### https://<area>github.com/SunWuYuan/wuyuan-drop
 
 ## [Snapdrop (share.frogapp.net)](https://share.frogapp.net)
 
-###### https://<span></span>github.com/r-40021/snapdrop-jp/wiki
+###### https://<area>github.com/r-40021/snapdrop-jp/wiki
 
 ## [麒麟传送 (qilindrop.cn)](https://qilindrop.cn)
 
-###### https://<span></span>github.com/linzxcw/qilindrop
+###### https://<area>github.com/linzxcw/qilindrop
 
 <br>
 <br>
@@ -64,19 +64,19 @@
 
 ## [Snapdrop (api.lpv4.cn:10010)](http://api.lpv4.cn:10010)
 
-###### https://<span></span>www<span></span>.fairysoft.<span></span>net<span></span>/post/65.html
+###### https://<area>www<area>.fairysoft.<area>net<area>/post/65.html
 
 ## [Filedrop (filedrop.codext.de)](https://filedrop.codext.de)
 
-###### https://<span></span>github.com/RobinLinus<span></span>/snapdrop/issues/504
+###### https://<area>github.com/RobinLinus<area>/snapdrop/issues/504
 
 ## [Snapdrop (mohammadag.com:8081)](http://mohammadag.com:8081)
 
-###### https://<span></span>github.com/RobinLinus<span></span>/snapdrop/issues/295
+###### https://<area>github.com/RobinLinus<area>/snapdrop/issues/295
 
 ## [Airdope (airdope.io)](https://airdope.io)
 
-###### https://<span></span>github.com/RobinLinus<span></span>/snapdrop/issues/483
+###### https://<area>github.com/RobinLinus<area>/snapdrop/issues/483
 
 <br>
 <br>
