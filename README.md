@@ -64,19 +64,19 @@
 
 ## [Snapdrop (api.lpv4.cn:10010)](http://api.lpv4.cn:10010)
 
-###### https://<span></span>www.fairysoft.net/post/65.html
+###### https://<span></span>www.fairysoft.net<span></span>/post/65.html
 
 ## [Filedrop (filedrop.codext.de)](https://filedrop.codext.de)
 
-###### https://<span></span>github.com/RobinLinus/snapdrop/issues/504
+###### https://<span></span>github.com/RobinLinus<span></span>/snapdrop/issues/504
 
 ## [Snapdrop (mohammadag.com:8081)](http://mohammadag.com:8081)
 
-###### https://<span></span>github.com/RobinLinus/snapdrop/issues/295
+###### https://<span></span>github.com/RobinLinus<span></span>/snapdrop/issues/295
 
 ## [Airdope (airdope.io)](https://airdope.io)
 
-###### https://<span></span>github.com/RobinLinus/snapdrop/issues/483
+###### https://<span></span>github.com/RobinLinus<span></span>/snapdrop/issues/483
 
 <br>
 <br>
