@@ -64,7 +64,7 @@
 
 ## [Snapdrop (api.lpv4.cn:10010)](http://api.lpv4.cn:10010)
 
-###### https://<span></span>www.fairysoft.<span></span>net<span></span>/post/65.html
+###### https://<span></span>www<span></span>.fairysoft.<span></span>net<span></span>/post/65.html
 
 ## [Filedrop (filedrop.codext.de)](https://filedrop.codext.de)
 
